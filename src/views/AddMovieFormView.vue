@@ -1,5 +1,5 @@
 <template>
-  <div class="container mt-4">
+  <div class="container mt-5">
     <h2>Upload Form</h2>
     <MovieForm />
   </div>
